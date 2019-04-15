@@ -1,4 +1,4 @@
-This is a class to match input strings to concepts, as outlined in the Programming Assignment.
+This is a class to match input strings to concepts.
 
 I have made a few assumptions, one being that the results did not need to be case sensitive. 
 I could have returned matching cases for the results, by mapping concepts to their original values, but did not add
